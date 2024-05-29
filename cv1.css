@@ -1,0 +1,40 @@
+body{
+    background-color: pink;
+}
+h1, h2,
+  .p {
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    text-decoration: underline;
+}
+.img2,
+  .img3{
+    position: absolute;
+    top: 10px;
+  }
+.img2{
+    width: 165px;
+    height: 165px;
+    left: 0px;
+}
+.img3{
+    width: 150px;
+    height: 150px;
+    right: 5px;
+}
+.titre{
+    text-decoration: underline;
+}
+
+.img1{
+    display: block;
+    margin: 0 auto;
+    margin-top: 230px;
+    gap: 10px;
+    border-radius: 10%;
+    width: 150px;
+    height: 160px;
+    
+}
